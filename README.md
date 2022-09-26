@@ -35,10 +35,10 @@ inventados.
 
 ### Banco de dados NoSQL:
 
--**Inserção sem esquema rígido**: Os bancos de dados noSQL apresentam a possibilidade de inserção de informações sem esquema definido. Isso não dispensa a etapa de modelagem
+- **Inserção sem esquema rígido**: Os bancos de dados noSQL apresentam a possibilidade de inserção de informações sem esquema definido. Isso não dispensa a etapa de modelagem
 , mas dá mnais liberdade ao desenvolvedor.
 
--**Velocidade de movimentação em ambiente big data**: Bancos relacionais são ótimos em se tratando de velocidade de transmissão de informações no mundo big data.
+- **Velocidade de movimentação em ambiente big data**: Bancos relacionais são ótimos em se tratando de velocidade de transmissão de informações no mundo big data.
 
 - **Multiplas tecnologias dependendo da solução** : No mundo dos bancos NoSQL muitos bancos funcionam de maneiras diferentes, o que pode dificultar na escolha de tecnologia a utilizar
 
